@@ -1,4 +1,4 @@
-# Installs [GitHub CLI 0.12.0](https://cli.github.com/) on [Ubuntu](https://www.ubuntu.com/)
+# Installs [GitHub CLI 1.0.0](https://cli.github.com/) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
 wget -q https://script.install.devinsideyou.com/github-cli
@@ -9,5 +9,5 @@ sudo chmod +x github-cli && ./github-cli
 
 ```bash
 wget -q https://script.install.devinsideyou.com/github-cli
-sudo chmod +x github-cli && ./github-cli 0.12.0
+sudo chmod +x github-cli && ./github-cli 1.0.0
 ```
